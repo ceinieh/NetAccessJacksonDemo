@@ -27,5 +27,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="getData"
-        android:text="Get Data"/>
+        android:text="Parse Data Using Jackson"/>
 </LinearLayout>
